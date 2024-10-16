@@ -20,10 +20,10 @@ Enlace a
 - Lo siguiente es un bloque de código:
 
 ...sql
-CREATE TABLE hoja (
-cabeza VARCHAR(20),
-Patitas INT,
-);
+    CREATE TABLE hoja (
+    cabeza VARCHAR(20),
+    Patitas INT,
+    );
 ...
 
 Tambien si intentamos con varios espacios:
