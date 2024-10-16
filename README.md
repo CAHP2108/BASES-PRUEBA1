@@ -13,3 +13,22 @@ Otra lista ordenada:
    - Importante
    - Recordar
 3. Tercer paso
+
+## Más cositas
+Enlace a 
+- Esto es INSERT INTO en formato in line.
+- Lo siguiente es un bloque de código:
+
+...sql
+CREATE TABLE hoja (
+cabeza VARCHAR(20),
+Patitas INT,
+);
+...
+
+Tambien si intentamos con varios espacios:
+
+CREATE TABLE tabla (
+a INT
+);
+...
