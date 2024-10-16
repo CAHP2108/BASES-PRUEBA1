@@ -18,7 +18,7 @@ Otra lista ordenada:
 Enlace a 
 - Esto es INSERT INTO en formato in line.
 - Lo siguiente es un bloque de código:
-
+ 
 ...sql
     CREATE TABLE hoja (
     cabeza VARCHAR(20),
